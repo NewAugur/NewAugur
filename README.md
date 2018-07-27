@@ -28,6 +28,23 @@ Performing the Token Swap now
 You have until 1st of August 2018 1500 GMT to swap your REP tokens for DEP.
 To perform the swap, send the desired REP amount to 0xB0184f4BE8e96933F77beb6B7470F173701A484B and on the fork date, the total DEP (forked rep) will be sent back.
 
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+You have until 1st of August 2018 1500 GMT to swap your REP tokens for DEP.
+To perform the swap, send the desired REP amount to 0xB0184f4BE8e96933F77beb6B7470F173701A484B and on the fork date, the total DEP (forked rep) will be sent back.
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCgAdFiEEOeHhIRO3Si0TdWNUzDFSizoaDksFAltaxLsACgkQzDFSizoa
+DksEIggAjc09ccjzi80zK2WzfE5nWryISFKmeTpXESPWsXWJwospz3ynqKB93zBS
+ghbYGP/c5/rcTdMI0vrxjrOO96MK3ZLJCvmEUaZXQjB2h0SbzYyUrnZJ25CBIG7+
+TJ9evPrQJ1AxXR2Eya7yP2IxqjyUIxKbsjQ3SOFAImIedpPPI02Q4bi9SvjfWZhC
+wjiwjfdwbhhwCdBCys7hSM3JA8JYYbl5CYyKpRX/L7PKrQK01NCOIphm5UJM20Gb
+eJ00EwHO1fJv/FDhUBonrAglxL37p7mHMIh/oEZH7yYJt85aCIe2czaK8FDsGl2j
+hH3Dp64mCM64+SxCvQKWP/bxBH1RwQ==
+=WxfK
+-----END PGP SIGNATURE-----
+
 
 Teams
 Like Bitcoin, there is no official team. Many of the people behind NewAugur have requested to remain anonymous throughout this fork for their personal safety.
